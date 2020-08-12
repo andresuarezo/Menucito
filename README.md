@@ -1,5 +1,5 @@
-# hello-world
-primer coso en el gittjab
-y esto e slo nuev que se escribe y tals.. que raro se ve
-?
-un poco codigo un poco no
+#Menucito
+Esta pagina quise crea una especie de landing page menú donde tuviera mucha interacción y UX aún estoy en el proceso del smooth pero ya se llega
+
+Deberá tener el efecto en imageens otros de videos y un boton para presentar todas las imagenes y vidos
+en thumbnails tipo un menú
